@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../fullstack"
+		},
+		{
+			"path": "../../webdp"
+		},
+		{
+			"path": "../../Three-Ticket-Please-main"
+		},
+		{
+			"path": "../../lemon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "lemon"
+	}
+}
